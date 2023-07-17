@@ -1,4 +1,8 @@
-# 2023 Pensamento Computacional aquario-scratch
+# 2023 Pensamento Computacional Aquario - Scratch
+
+## Descrição
+
+Este repositório é utilizado para o curso “scratch-programacao-criativa” da Alura, ministrado para turmas do 8 ano EF. Nele está registrado o arquivo aquario.sb3, que pode ser carregado na plataforma scratch.com, rúbricas avaliatívas e o link para o projeto.
 
 ## Rúbricas
 * estruturação algorítmo:
@@ -13,4 +17,5 @@
 
 ## Link 
 
-* [aquario](https://scratch.mit.edu/projects/873831222);
+* [aquario - scratch](https://scratch.mit.edu/projects/873831222);
+* [aquario - github](https://github.com/pFransozi/2023-PC-AQUARIO-SCRATCH);
