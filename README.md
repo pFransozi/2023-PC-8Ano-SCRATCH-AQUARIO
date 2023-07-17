@@ -5,11 +5,11 @@
 Este repositório é utilizado para o curso “scratch-programacao-criativa” da Alura, ministrado para turmas do 8 ano EF. Nele está registrado o arquivo aquario.sb3, que pode ser carregado na plataforma scratch.com, rúbricas avaliatívas e o link para o projeto.
 
 ## Rúbricas
-* estruturação algorítmo:
+* estruturação algoritmo:
   * decomposição do problemas em partes menores;
   * encontrar padrões nas partes menores;
   * abstração e composição da solução;
-  * algorítmo;
+  * algoritmo;
 * eventos;
 * movimento x, y;
 * laço de repetição (sempre, restrito);
